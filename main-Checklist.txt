@@ -1,3 +1,12 @@
+Urgent:
+> Finish solving GATE previous yr Question Papers
+> Start working on a project before hitting winter break this year
+> learn:
+  - [] data science
+  - [] python
+  - [] machine larning
+
+Important (Long Term):
 score good in GATE 2019 exam
 create a great linkdIn Profile
 get a job in RR
